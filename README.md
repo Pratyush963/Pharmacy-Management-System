@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-Welcome to our "Pharmacy Management System" project repository! This project was developed as part of our "Database Management System" course using PHP, XAMPP server, and phpMyAdmin. The system is designed to streamline and manage pharmacy-related tasks and operations.
+Welcome to my "Pharmacy Management System" project repository! This project was developed as part of  "Database Management System" course using PHP, XAMPP server, and phpMyAdmin. The system is designed to streamline and manage pharmacy-related tasks and operations.
 
 ## Project Overview
 
