@@ -26,8 +26,7 @@ Our "Pharmacy Management System" project aims to provide an efficient and user-f
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/pharmacy-management-system.git
-   cd pharmacy-management-system
+   git clone https://github.com/Pratyush963/Pharmacy-Management-System
 
 2. Set up XAMPP and import the project files into the htdocs directory.
 
